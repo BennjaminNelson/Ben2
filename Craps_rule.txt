@@ -1,0 +1,11 @@
+Pass and come = with the shooter
+
+Don't "" "" = against the shooter
+
+box/point numbers = 4, 5, 6, 8, 9, 10
+
+Come bet = 7, 11 win/ 2, 3, 12 lose (after first roll)
+Any other number, come bet gets placed on.
+
+
+Don't come bet = 2, 3 win/ 7, 11 lose (after first roll)

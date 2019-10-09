@@ -1,0 +1,21 @@
+Check list:
+
++ = finished
+
+dice +
+Dice roll rounds +
+Passline/DontPassline bet +
+Bank system +
+Soft bets +
+Better input system+
+
+
+Better round reset(going to which roll stage you need to go to). +?
+
+
+Come/DontCome bet
+Field bet
+Round system optimization
+Pull out of "Don't" bets
+
+
